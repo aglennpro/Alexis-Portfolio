@@ -1,0 +1,59 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+ background-color: #30526D;
+ 
+}
+
+header {
+ background-color: #2B4559;
+ margin: 0px;
+ padding: 50px;
+ text-align: center;
+ color: #CCD7E4;
+ font-family: 'Monaco', monospace;
+}
+
+header h1 {
+ font-size: 48px;
+}
+
+header h2 {
+  font-size: 16px;
+  color:
+}
+
+main h3 {
+  text-align: center;
+  font-family: 'Monaco', monospace;
+}
+
+hr {
+  height: 2px;
+  background-color: black;
+  border: 2px;
+  
+}
+main {
+  margin: 25%;
+}
+
+main p {
+  text-align: center;
+}
+
+footer {
+  background-color:#2B4559;
+  text-align: center;
+  margin: 0px;
+ padding: 50px;
+ text-align: center;
+ color: #CCD7E4;
+ font-family: 'Monaco', monospace;
+}
+
+ul {
+  text-align: center;
+}
