@@ -43,6 +43,9 @@ main {
   text-align: center;
 }
 
+img {
+  margin: auto;
+}
 
 /* footer*/
 footer {
@@ -62,7 +65,7 @@ ul {
 
 ol {
   text-align: center;
-  margin: 0px;
+ 
 }
 
 /* link psuedo-class */
