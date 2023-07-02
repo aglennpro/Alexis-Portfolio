@@ -6,7 +6,7 @@ body {
  background-color: #30526D;
  
 }
-
+/* header*/
 header {
  background-color: #2B4559;
  margin: 0px;
@@ -22,8 +22,10 @@ header h1 {
 
 header h2 {
   font-size: 16px;
-  color:
+  
 }
+
+/*main*/
 
 main h3 {
   text-align: center;
@@ -38,12 +40,11 @@ hr {
 }
 main {
   margin: 25%;
-}
-
-main p {
   text-align: center;
 }
 
+
+/* footer*/
 footer {
   background-color:#2B4559;
   text-align: center;
@@ -54,6 +55,19 @@ footer {
  font-family: 'Monaco', monospace;
 }
 
+/* ordered and unordered list*/
 ul {
   text-align: center;
 }
+
+ol {
+  text-align: center;
+  margin: 0px;
+}
+
+/* link psuedo-class */
+
+a:link {color: blue;}
+a:visited {color:#006400;}
+a:hover {color:red;}
+a:active {color: #3CB371;}
